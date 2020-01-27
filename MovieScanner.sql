@@ -2,7 +2,7 @@ CREATE DATABASE  IF NOT EXISTS `moviescanner` /*!40100 DEFAULT CHARACTER SET utf
 USE `moviescanner`;
 -- MySQL dump 10.13  Distrib 8.0.18, for Win64 (x86_64)
 --
--- Host: 15011066.iptime.org    Database: moviescanner
+-- Host: ...    Database: moviescanner
 -- ------------------------------------------------------
 -- Server version	5.5.5-10.3.15-MariaDB-1
 
